@@ -11,11 +11,6 @@
 
 I'm a passionate and driven final-year Computer Science and Engineering student, specialized in Cyber Security, Blockchain Technology, and IoT. I am keenly interested in building solutions that lie at the intersection of software engineering, data analysis, and modern web technologies. I strive to contribute to impactful projects and grow as a developer through continuous learning and collaboration.
 
-I'm actively looking for opportunities in:
-- **Software Development**
-- **Web Development**
-- **Data Analytics**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -46,7 +41,6 @@ I'm actively looking for opportunities in:
 An intelligent parking management system that auto-allocates slots to vehicles upon entry, records timestamps for entry and exit, calculates parking cost, and includes optional services like valet parking, car washing, E-charging & vehicle maintenance. Final bills are generated combining all services used.
 
 **Tech Used:** Python (Streamlit), SQL  
-**Status:** Finalizing for upload
 
 ---
 
@@ -54,7 +48,6 @@ An intelligent parking management system that auto-allocates slots to vehicles u
 An all-in-one career exploration platform for students to discover career options across streams like Science, Commerce, and Arts. Features include profile management, career library, access to expert guides, aptitude tests, and general assessments that offer personalized career suggestions.
 
 **Tech Used:** Python, Machine Learning, MongoDB, HTML, CSS  
-**Status:** Preparing repository for upload
 
 ---
 
@@ -62,27 +55,13 @@ An all-in-one career exploration platform for students to discover career option
 A decentralized task management system where project members are divided as task creators and solvers. Tasks are created, applied for, assigned, and submitted through a secure blockchain-backed system. Features include dashboards, status tracking, deadlines, ranking, and data transparency.
 
 **Tech Used:** HTML, CSS, JavaScript, ReactJS, NodeJS, Solidity, Truffle, Web3.js, Ganache, Firebase, IPFS  
-**Status:** Repository in progress
-
----
-
-## 📜 Certifications
-- Full Stack Web Development
-- Cyber Security & Ethical Hacking
-- Blockchain Technology
-- Google Certified Program
-- Hackathon Participant:
-  - **Qusar** – Vasantdada Patil Pratishthan's College
-  - **Hack2Crack** – Vishwaniketan's Institute of Management
-- Certificates in extra-curricular activities
 
 ---
 
 ## 📫 Contact Me
 
-📱 **Phone:** +91 7738702273  
 📬 **Email:** sahuvishnupriya7@gmail.com
-🔗 **LinkedIn:** **  
+🔗 **LinkedIn:** http://www.linkedin.com/in/vishnu-priya-sahu  
 
 
 ---
@@ -94,17 +73,3 @@ A decentralized task management system where project members are divided as task
 
 > 🚧 *More projects and contributions coming soon... Stay tuned!*
 
-<!--
-**Vishnu-Priya-Sahu/Vishnu-Priya-Sahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
