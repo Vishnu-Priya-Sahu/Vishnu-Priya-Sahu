@@ -67,9 +67,5 @@ A decentralized task management system where project members are divided as task
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-Priya-Sahu&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishnu-Priya-Sahu&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Priya-Sahu&layout=compact)
-
 > 🚧 *More projects and contributions coming soon... Stay tuned!*
 
